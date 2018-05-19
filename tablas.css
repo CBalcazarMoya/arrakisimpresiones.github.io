@@ -1,0 +1,49 @@
+.tabla{
+	width:100%;
+	box-sizing: border-box;
+	margin-left: 100px;
+	
+	
+}
+.tablax3{
+	width:30%;
+	float: left;
+	padding-left: 10px;
+	padding-top: 30px;
+	padding-bottom: 50px;
+
+}
+.caja-precio{
+	border: 1px solid #000 ;
+	background: #000;
+	margin: auto;
+	align-content: center;
+	align-items: center;
+	
+
+}
+.iconoimpresiones{
+	color:#BF0615;
+	padding-top: 10px;
+	font-size:1rem;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.caja-precio h5{
+	color:#fff;
+	padding-top: 10px;
+	font-family: carrois;
+	font-size: 15px;
+}
+.lista-precios{
+	list-style: none;
+	color:#fff;
+	padding-top: 20px;
+	font-family: carrois;
+
+}
+.lista-espacios{
+	padding: 10px;
+}
+
+
